@@ -11,7 +11,7 @@ username=""
 upass=""
 # urls for login
 # In different college, it is different
-# but you can gain it by doing:
+# but you can find out what it is by doing:
 # 1. use your cellphone to connect to the wifi of your computer or of your campus
 # 2. visit a website, such as baidu, then the browser should jump to the login page
 # 3. copy the address of this login page, and paste it to the LoginUrl below.
@@ -22,7 +22,7 @@ ZeroMKKey = '123456'
 
 # www.baidu.com ; www.so.com
 # here is the ip addresses that used to ping, so we can find out if we are online.
-# you can use ";" to seperate the ip addresses you want to used to ping.
+# you can use ";" to seperate the ip addresses that you want to use to ping.
 PingIpAddresses = "125.88.193.243;202.108.22.5"
 
 SleepTime = 5
